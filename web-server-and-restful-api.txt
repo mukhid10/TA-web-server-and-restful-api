@@ -1,0 +1,23 @@
+1. static web server merupakan web yang ketika di akses tidak bisa memberikan fedback ke server
+ dynamic web server merupakan web yang ketika diakses user dapat berinteraksi dengan serves side
+
+ 2.Bagian dari arsitektur website adalah
+    HTTP ( Hypertext Transfer Protocol)
+    WWW ( World Wide Web)
+    URL    ( Universal Resource Locator)
+    XML    ( Extensible Markup Languange)
+    JavaScript
+
+3. database
+    encrypsy
+    rest API
+
+4. merupakan implementasi dari API yang mempunyai arsitektur yg dapat berkomunikasi denngan HTTP HTTPS
+    untuk sebuah pertukaran data
+
+5. GET -> untuk mengambil data dari database
+    POST -> untuk menambah data ke database
+    PUT -> untuk mengUpdate data ke database
+    DELETE -> untuk menghapus data ke database
+
+6. untuk mengetahuhui letak masalah
